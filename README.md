@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaewonwashere
 - 📍 I'm currently living in Seoul, South Korea.
 - 📚 I’m studying Chemical Engineering, Biological Engineering + a tad of AI/ML! 
-- 🌱 I’m interested in pretty much anything :J)
+- 🌱 I’m interested in pretty much anything :)
 
 - 📫 jaewonwashere@gmail.com
 
