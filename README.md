@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaewonwashere
-- 📍 I'm currently living in Seoul, South Korea.
-- 📚 I’m studying Chemical Engineering, Biological Engineering + a tad of AI/ML! 
+- 📍 I'm currently living in Santa Barbara, California. Before coming here, I was born and raised in Seoul South Korea.
+- 📚 I’m studying Chemical Engineering, with a focus on electrochemistry for energy storage applications + a tad of AI/ML! 
 - 🌱 I’m interested in pretty much anything :)
 
 - 📫 jaewonwashere@gmail.com
